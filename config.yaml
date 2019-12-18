@@ -1,3 +1,3 @@
-client_id: 'YOUR CLIENT ID'
-client_secret: 'YOUR CLIENT SECRET'
-user_agent: 'YOUR USER'
+client_id: "YOUR CLIENT ID"
+client_secret: "YOUR CLIENT SECRET"
+user_agent: "YOUR USER"
